@@ -9,4 +9,4 @@ Line plot
 Scatter plot
 Histogram
 '''
-# Histogram
+# Scatter plot
